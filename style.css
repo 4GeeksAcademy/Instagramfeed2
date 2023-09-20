@@ -7,6 +7,18 @@ div{
     box-sizing: border-box;
 }
 
+.fa-solid fa-ellipsis-vertical {
+    background-color: black;
+}
+
+.fa-brands fa-html5 {
+    padding: 10px;
+}
+
+.post-icons {
+    padding: 10px;
+}
+
 header {
     background: white;
     padding: 10px;
@@ -24,20 +36,15 @@ div.post {
 div.post h2, div.post p{
     padding: 10px;
     margin: 0;
-    font-size: 12;
 }
 
 div.post img{
     width: 100%;
 }
 
-.post-icon {
-    display: flex;
-    padding-left: 10px;
-}
 
 div.container {
-    width: 400px;
+    width: 500px;
     margin: auto;
 }
 
@@ -51,5 +58,5 @@ div.post .post-header div:last-child{
     width: 20%;
     padding: 10px;
     text-align: right;
-    color: lightgrey;
+    color: black;
 }
