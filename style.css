@@ -60,3 +60,19 @@ div.post .post-header div:last-child{
     text-align: right;
     color: black;
 }
+
+.post-header h2 i {
+  padding: 0;
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 24px;
+  margin-right: 5px;
+}
+
+.post-header h2 p {
+  margin: 0;
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 10px;
+  margin-left: 5px;
+}
